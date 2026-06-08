@@ -1,0 +1,39 @@
+export default function PlaceholderImage() {
+  return (
+    <div
+      className="
+      h-[350px]
+      w-[350px]
+      md:h-[400px]
+      md:w-[400px]
+      rounded-full
+      border
+      border-slate-700
+      bg-gradient-to-br
+      from-blue-500/20
+      via-violet-500/20
+      to-cyan-500/20
+      flex
+      items-center
+      justify-center
+      shadow-2xl
+      shadow-blue-500/20
+      overflow-hidden
+      "
+    >
+      <img
+        src="/UJ.png"
+        alt="Ufomadu Joseph"
+        className="
+         h-[400px]
+         w-[400px]
+         rounded-full
+         object-cover
+         border
+       border-white/10
+         hero-image
+  "
+      />
+    </div>
+  );
+}
