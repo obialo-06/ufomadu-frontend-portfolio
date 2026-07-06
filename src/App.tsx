@@ -43,7 +43,6 @@ function App() {
 
         <Experience />
 
-        {/* <Skills /> */}
         <Expertise />
 
         <CaseStudy />

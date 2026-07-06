@@ -7,10 +7,10 @@ export const projects: IProject[] = [
 
     image: "/T&L.png",
 
-    description: "Enterprise loan and staff management platform.",
+    description: "Enterprise loan management platform.",
 
     problem:
-      "The organization required a scalable internal platform to manage recruitment, loans, staff onboarding and business workflows.",
+      "The organization required a scalable internal PWA (Progressive Web App) application for loan processing and management.",
 
     solution:
       "Developed reusable frontend architecture, integrated APIs and implemented enterprise-grade user interfaces.",
@@ -59,7 +59,7 @@ export const projects: IProject[] = [
       "UI Development",
     ],
 
-    technologies: ["React", "Redux Toolkit", "TypeScript", "Tailwind"],
+    technologies: ["React", "Redux Toolkit", "JavaScript", "Bootstrap"],
   },
 
   {
@@ -96,10 +96,10 @@ export const projects: IProject[] = [
     image: "/vibrianet.png",
 
     description:
-      "Implemented OTP verification, payment alerts and API-driven features using React Query and modern frontend architecture.",
+      "A web application to securly deliver OTPs and payment alert to you exactly when you need it",
 
     problem:
-      "The organization required a system to securly deliver OTPs and payment alert to you exactly when you need it.",
+      "The organization required a system to securly deliver OTPs and payment alerts on time.",
 
     solution:
       "Developed reusable frontend architecture, integrated APIs and implemented enterprise-grade user interfaces.",
@@ -114,7 +114,7 @@ export const projects: IProject[] = [
       "UI Development",
     ],
 
-    technologies: ["React Query", "TypeScript", "React", "Tailwind"],
+    technologies: ["React Query", "TypeScript", "NextJS", "Tailwind"],
   },
 
   {
@@ -123,7 +123,7 @@ export const projects: IProject[] = [
     image: "/zVerify_dashboard-1.png",
 
     description:
-      "Implemented OTP verification, alerts and API-driven features using React Query and modern frontend architecture.",
+      "A versatile OTP verification solution designed to provide businesses with secure, multi-channel authentication services",
 
     problem:
       "The organization required an OTP verification solution designed to provide businesses with secure, multi-channel authentication services.",
@@ -169,7 +169,7 @@ export const projects: IProject[] = [
       "UI Development",
     ],
 
-    technologies: ["React Query", "TypeScript", "React", "Tailwind"],
+    technologies: ["React Query", "TypeScript", "React", "Styled Components"],
   },
 
   {
@@ -196,6 +196,6 @@ export const projects: IProject[] = [
       "UI Development",
     ],
 
-    technologies: ["React Query", "TypeScript", "React", "Tailwind"],
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
 ];

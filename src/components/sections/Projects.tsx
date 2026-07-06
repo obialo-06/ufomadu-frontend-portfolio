@@ -25,6 +25,7 @@ export default function Projects() {
           className="
             grid
             lg:grid-cols-2
+            auto-rows-fr
             gap-10
             "
         >

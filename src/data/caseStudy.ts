@@ -1,10 +1,10 @@
 export const caseStudy = {
   title: "Building an Enterprise Loan Management System for Shell Nigeria",
 
-  image: "/T&L.png",
+  image: "/tlm.png",
 
   challenge:
-    "Develop a scalable enterprise platform supporting staff recruitment, loan processing, and internal operational workflows.",
+    "Develop a scalable internal PWA (Progressive Web App) application for loan processing and management.",
 
   responsibilities: [
     "Frontend Architecture",

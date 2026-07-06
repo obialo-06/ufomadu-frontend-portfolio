@@ -15,7 +15,7 @@ const stats = [
     label: "Users Served",
   },
   {
-    value: 3,
+    value: 7,
     suffix: "+",
     label: "Enterprise Platforms",
   },

@@ -1,4 +1,4 @@
-import { ArrowDown, ArrowRight, Download } from "lucide-react";
+import { Download } from "lucide-react";
 import PlaceholderImage from "../shared/PlaceholderImage";
 import { profile } from "../../data/profile";
 import useMouseParallax from "../../hooks/useMouseParallax";
@@ -14,6 +14,7 @@ export default function Hero() {
       relative
       flex
       items-center
+      mt-10!
       "
     >
       <div
@@ -36,25 +37,14 @@ export default function Hero() {
             lg:mt-6
             "
         >
-          {/* <p
-              className="
+          <p
+            className="
           text-blue-400
           uppercase
           tracking-[0.3em]
           "
-            >
-              Available For Remote Opportunities
-            </p> */}
-
-          <p
-            className="
-              text-blue-400
-              font-semibold
-              tracking-widest
-              uppercase
-              "
           >
-            Senior Frontend Engineer
+            Available For Remote Opportunities
           </p>
 
           <h1

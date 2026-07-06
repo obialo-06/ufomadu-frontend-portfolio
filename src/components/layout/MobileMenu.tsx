@@ -37,14 +37,12 @@ export default function MobileMenu() {
           !bg-[#050816]
           "
         >
-          {/* Top Bar */}
           <div className="p-6 flex justify-end">
             <button onClick={() => setOpen(false)}>
               <X />
             </button>
           </div>
 
-          {/* Links Container */}
           <div
             className="
             flex
