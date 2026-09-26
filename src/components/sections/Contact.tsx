@@ -1,6 +1,8 @@
 import { GitPullRequest, Mail, ArrowUpRight, Link } from "lucide-react";
 
 import { profile } from "../../data/profile";
+import GithubIcon from "../../icons/github-icon";
+import LinkedInIcon from "../../icons/linkedin-icon";
 
 export default function Contact() {
   return (
@@ -102,7 +104,7 @@ export default function Contact() {
               border-white/10
               "
             >
-              <GitPullRequest size={18} />
+              <GithubIcon className="w-5 h-5" />
               GitHub
               <ArrowUpRight size={16} />
             </a>
@@ -122,7 +124,7 @@ export default function Contact() {
               border-white/10
               "
             >
-              <Link size={18} />
+              <LinkedInIcon className="w-5 h-5" />
               LinkedIn
               <ArrowUpRight size={16} />
             </a>

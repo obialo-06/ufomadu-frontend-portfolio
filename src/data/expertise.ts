@@ -1,6 +1,6 @@
 export const expertise = [
   {
-    category: "Frontend Engineering",
+    category: "Frontend Engineering & AI",
     items: [
       "React",
       "React Native",
@@ -10,6 +10,8 @@ export const expertise = [
       "HTML5",
       "CSS3",
       "Tailwind CSS",
+      "Generative AI",
+      "AI Agents and Automation",
     ],
   },
 

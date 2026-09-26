@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Ufomadu Joseph",
+  name: "Ufomadu Nnaemeka Joseph",
 
   role: "Senior Frontend Engineer",
 

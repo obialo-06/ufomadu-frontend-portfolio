@@ -1,6 +1,6 @@
 const stats = [
   {
-    value: 5,
+    value: 6,
     suffix: "+",
     label: "Years Experience",
   },
@@ -15,7 +15,7 @@ const stats = [
     label: "Users Served",
   },
   {
-    value: 7,
+    value: 6,
     suffix: "+",
     label: "Enterprise Platforms",
   },
