@@ -1,4 +1,4 @@
-import { GitPullRequest, Mail, ArrowUpRight, Link } from "lucide-react";
+import { Mail, ArrowUpRight } from "lucide-react";
 
 import { profile } from "../../data/profile";
 import GithubIcon from "../../icons/github-icon";
